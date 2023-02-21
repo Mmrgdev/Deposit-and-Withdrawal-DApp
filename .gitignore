@@ -1,7 +1,4 @@
 # Globally ignored folder names
 node_modules
 
-# Package stuff
-package.json
-package-lock.json
 
